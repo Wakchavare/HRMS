@@ -35,3 +35,6 @@ Password: Test@123
 Demo Link:
 
 YouTube Link- https://youtu.be/gzV6mtVLatw
+
+Screenshots:
+<img width="1404" alt="image" src="https://github.com/Wakchavare/HRMS/assets/134856684/89fe5e64-c112-40bc-a6a4-c465c94d9805">
