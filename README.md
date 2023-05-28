@@ -38,3 +38,5 @@ YouTube Link- https://youtu.be/gzV6mtVLatw
 
 Screenshots:
 <img width="1404" alt="image" src="https://github.com/Wakchavare/HRMS/assets/134856684/89fe5e64-c112-40bc-a6a4-c465c94d9805">
+<img width="1324" alt="image" src="https://github.com/Wakchavare/HRMS/assets/134856684/575b925f-b1dd-4028-941c-32a79bc7f0d4">
+<img width="1073" alt="image" src="https://github.com/Wakchavare/HRMS/assets/134856684/2cd3e936-782c-4b31-90af-6a455b8ab3f8">
