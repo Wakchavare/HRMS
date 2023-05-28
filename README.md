@@ -20,7 +20,7 @@ Steps to run the code:
 
 4.Create a database with name hbmsdb
 
-5.Import hbmsdb.sql file
+5.Import poojawakchavaredatabase.sql file
 
 6.Run the script http://localhost/hbms
 
